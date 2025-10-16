@@ -66,7 +66,7 @@ print("===== This is the end of my class! =====")
 🧠 Output Example
 
 ```bash
-Copiar código
+Copy code
 ====== Welcome to my Person class! ======
 
 The objects are:
