@@ -51,6 +51,7 @@ class Person:
 person = Person("Moisés", 21, 1.83, "My name is Moisés.")
 
 # Print the information
+```bash
 print("====== Welcome to my Person class! ======\n")
 print("The objects are:\n")
 print(person.name, "\n")
@@ -59,6 +60,7 @@ print(person.height, "\n")
 print(person.phrase, "\n")
 print("See you soon!")
 print("===== This is the end of my class! =====")
+```
 
 
 🧠 Output Example
